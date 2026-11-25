@@ -1,0 +1,2 @@
+# Predicting-Hard-Drive-Failure-Handling-Censored-and-Missing-Data-in-Reliability-
+sorry 350 characters Analyzed 29,072 Backblaze hard drives to study failure patterns using EDA, Kaplan–Meier survival analysis, Weibull modelling, Cox regression, robust regression, and missing-data simulations. Identified brand-wise survival differences and SMART attribute associations to understand hard-drive reliability and failure risk.
